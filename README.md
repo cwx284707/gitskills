@@ -1,7 +1,6 @@
 # gitskills
 
-1123 on branch master 
-
-this is branch dev1
-
 this is branch origin/dev
+
+1 + 1 = 2;
+2 = 1 + 1;
